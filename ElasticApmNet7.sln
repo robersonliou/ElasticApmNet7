@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElasticApmNet7", "src\ElasticApmNet7\ElasticApmNet7.csproj", "{470DB10D-83B2-4DF8-B1E0-5ED136F1CA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{470DB10D-83B2-4DF8-B1E0-5ED136F1CA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{470DB10D-83B2-4DF8-B1E0-5ED136F1CA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{470DB10D-83B2-4DF8-B1E0-5ED136F1CA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{470DB10D-83B2-4DF8-B1E0-5ED136F1CA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
