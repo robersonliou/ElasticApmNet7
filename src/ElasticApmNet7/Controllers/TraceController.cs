@@ -17,6 +17,16 @@ public class TraceController : ControllerBase
         _factory = factory;
     }
 
+    [HttpGet("base")]
+    public async Task<IActionResult> Base()
+    {
+
+        return Ok(new
+        {
+            Message = "trace auto instrument without do anything."
+        });
+    }
+    
     [HttpGet("span/simple")]
     public async Task<IActionResult> Simple()
     {
